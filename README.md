@@ -24,6 +24,26 @@ It was created as a personal exercise to improve my HTML structure and CSS layou
 - Visual Studio Code (VS Code)
 - Chrome DevTools (for layout verification and inspection)
 ---
+## 📸 Preview
+
+Below are snapshots of the static Spotify-inspired homepage:
+
+### 🔹 Screenshot 1: Trending Songs Section
+![Screenshot 1](./screenshot1.png)
+
+### 🔹 Screenshot 2: Popular Artists & Albums
+![Screenshot 2](./screenshot2.png)
+
+### 🔹 Screenshot 3: Popular Radio and Charts
+![Screenshot 3](./screenshot3.png)
+
+### 🔹 Screenshot 4: India's Best Section
+![Screenshot 4](./screenshot4.png)
+
+### 🔹 Screenshot 5: Footer Section
+![Screenshot 5](./screenshot5.png)
+
+---
 ## 📚 What I Learned
 
 - Structuring web page content using HTML  
