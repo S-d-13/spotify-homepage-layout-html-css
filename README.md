@@ -61,4 +61,4 @@ It is not affiliated with or endorsed by Spotify. All brand names and logos belo
 ## 👩‍💻 Author
 
 [@s-d-13](https://github.com/s-d-13)  
-Aspiring Front-End Developer
+Aspiring Web Developer
