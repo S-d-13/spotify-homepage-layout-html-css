@@ -44,6 +44,11 @@ Below are snapshots of the static Spotify-inspired homepage:
 ![Screenshot 5](./screenshot5.png)
 
 ---
+
+## 🔗 Live Demo
+
+[Click here to view the project live](https://s-d-13.github.io/spotify-homepage-layout-html-css/)
+
 ## 📚 What I Learned
 
 - Structuring web page content using HTML  
